@@ -11,8 +11,8 @@ const ContactUs = () =>{
             <Container>
                 <h5>Contact Us</h5>
                 <hr />
-                <p>< FaPhoneSquareAlt /> +256 772 000 000</p>
-                <p><FaWhatsappSquare />  +256 772 000 000</p>
+                <p>< FaPhoneSquareAlt /> +256 773 777 416</p>
+                <p><FaWhatsappSquare />  +256 788 976 232</p>
                 <p><FaFacebook /> Facebook</p>
                 <p><MdAttachEmail /> Email</p>
                 <p><FaSquareXTwitter /> Twiter</p>
