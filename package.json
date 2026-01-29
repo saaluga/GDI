@@ -14,6 +14,7 @@
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
   },
   "dependencies": {
+    "dotenv": "^17.2.3",
     "express": "^5.2.1"
   },
   "devDependencies": {
