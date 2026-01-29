@@ -65,19 +65,19 @@ function BasicExample() {
                         <LinkContainer to="/patientstory">
                             <Nav.Link>Patient Story</Nav.Link>
                         </LinkContainer>
-                        <NavDropdown title="News And Report" id="basic-nav-dropdown">
+                        <NavDropdown title="News And Report" id="basic-nav-dropdown" className="link-success">
                             <LinkContainer to="/">
-                                <NavDropdown.Item>News</NavDropdown.Item>
+                                <NavDropdown.Item> News</NavDropdown.Item>
                             </LinkContainer>
                             <NavDropdown.Divider />
                             <LinkContainer to="/">
                                 <NavDropdown.Item>Annual And Financial Report</NavDropdown.Item>
                             </LinkContainer>
                         </NavDropdown>
-                        <LinkContainer to="/contactus">
+                        <LinkContainer to="/contact/contact">
                             <Nav.Link>Contact Us</Nav.Link>
                         </LinkContainer>
-                        <LinkContainer to="/donate">
+                        <LinkContainer to="/donate/donate">
                             <Nav.Link>
                                 <Button variant="secondary" size='sm'>Donate</Button>
                             </Nav.Link>
